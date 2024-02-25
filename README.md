@@ -11,11 +11,11 @@ This Python script implements a simple Rock, Paper, Scissors game using the Tkin
 
 		git clone https://github.com/Roddy-N/rock-paper-scissors.git
 
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 
 		cd rock-paper-scissors
 
-3.Run the Python script:
+3. Run the Python script:
 
 		python rock_paper_scissors.py
 
